@@ -19,6 +19,7 @@
 	* -addrole "role"
 	* -removerole "role"
 * Channel Related
+	* -tempchannel "time in seconds" "channel name"
 	* -createchannel "channel name"
 	* -delchannel "channel"
 	* -renamechannel "channel"
@@ -30,6 +31,7 @@
 	* -avatar
 
 ## Fun Commands
+* -EmbedAnnounce "channel "message"
 * -Announce "channel" "message"
 * -FoodFight
 * -8ball
