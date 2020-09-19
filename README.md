@@ -1,8 +1,9 @@
 # FoodBot-Documentation
   * A bot for all the foodies out there, add food bot to your server and enjoy its delicacies!
-## Vote for FoodBot on botsfordiscord and Top.gg!
+## Vote for FoodBot on botsfordiscord, discordbotlist, and Top.gg!
 
 # Discord
   * https://discord.com/invite/JZzKbzW
 
-[![Bots for Discord](https://botsfordiscord.com/api/bot/730899590869680228/widget)](https://botsfordiscord.com/bots/730899590869680228) [![Discord Bots](https://top.gg/api/widget/730899590869680228.svg)](https://top.gg/bot/730899590869680228)
+[![Bots for Discord](https://botsfordiscord.com/api/bot/730899590869680228/widget)](https://botsfordiscord.com/bots/730899590869680228) [![Discord Bots](https://top.gg/api/widget/730899590869680228.svg)](https://top.gg/bot/730899590869680228) <script src="https://discordbotlist.com/widget/index.js" async></script>
+<dbl-widget bot-id="bot-foodbot" centered></dbl-widget>
