@@ -5,4 +5,4 @@
 # Discord
   * [FoodBot's Discord!](https://discord.com/invite/JZzKbzW)
 
-[![Bots for Discord](https://botsfordiscord.com/api/bot/730899590869680228/widget)] [![Discord Bots](https://top.gg/api/widget/730899590869680228.svg)]
+![Bots for Discord](https://botsfordiscord.com/api/bot/730899590869680228/widget) ![Discord Bots](https://top.gg/api/widget/730899590869680228.svg)
