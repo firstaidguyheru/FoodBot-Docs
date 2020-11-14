@@ -19,10 +19,11 @@
 	* -addrole "role"
 	* -removerole "role"
 * Channel Related
-	* -tempchannel "time in seconds" "channel name"
+	* -tempchannel "time in minutes" "channel name"
+	* -tempvc "time in minutes" "channel name"
 	* -createchannel "channel name"
 	* -delchannel "channel"
-	* -renamechannel "channel"
+	* -renamechannel "channel" "new name"
 	* -delvc "voice channel"
 	* -createvc "channel name"
 * Info Related
