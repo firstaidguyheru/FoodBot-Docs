@@ -26,6 +26,9 @@
 	* -renamechannel "channel" "new name"
 	* -delvc "voice channel"
 	* -createvc "channel name"
+* Emoji Related
+	* -createemoji "image link" "emoji name"
+	* -deleteemoji "emoji"
 * Info Related
 	* -serverinfo
 	* -userinfo
@@ -35,7 +38,7 @@
 * -EmbedAnnounce "channel "message"
 * -Announce "channel" "message"
 * -FoodFight
-* -8ball
+* -8ball "question"
 * -CoinFlip
 * -FoodieMeter
 * -RPS (Rock Paper Scissors)
