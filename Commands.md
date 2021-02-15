@@ -10,7 +10,7 @@
 * -food quote(s)
 * -foodfight "user"
 * -snacklist
-* -nutrition <search>
+* -nutrition "search"
 	
 ## Utility Commands
 
