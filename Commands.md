@@ -10,7 +10,8 @@
 * -food quote(s)
 * -foodfight "user"
 * -snacklist
-
+* -nutrition <search>
+	
 ## Utility Commands
 
 * Role Related
