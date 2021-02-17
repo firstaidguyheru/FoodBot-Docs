@@ -11,6 +11,7 @@
 * -foodfight "user"
 * -snacklist
 * -nutrition "search"
+* -lookup "food name" <- gets a picture of basically anything, meant to search up food.
 	
 ## Utility Commands
 
