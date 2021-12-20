@@ -9,4 +9,4 @@
   * [FoodBot's Discord](https://discord.com/invite/JZzKbzW)
   * [Website](https://foodbot.clvrk.xyz)
   
-![Bots for Discord](https://botsfordiscord.com/api/bot/730899590869680228/widget) ![Discord Bots](https://top.gg/api/widget/730899590869680228.svg)
+![dbl](https://discordbotlist.com/api/v1/bots/730899590869680228/widget) ![Discord Bots](https://top.gg/api/widget/730899590869680228.svg)(https://top.gg/bot/730899590869680228)
