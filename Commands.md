@@ -18,8 +18,8 @@
 * Role Related
 	* -createrole "role name"
 	* -delrole "role"
-	* -addrole "role"
-	* -removerole "role"
+	* -addrole "role" "user"
+	* -removerole "role" "user"
 * Channel Related
 	* -tempchannel "time in minutes" "channel name"
 	* -tempvc "time in minutes" "channel name"
